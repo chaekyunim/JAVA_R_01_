@@ -8,7 +8,7 @@ public class AddClass {
 	
 	/*
 	 * 그냥 호출만 하면
-	 * 대한민국... Replubic
+	 * 대한민국... REPLUBIC
 	 */
 public static void main(String[] args) {
 	//현재 클래스를 에 선언된 add() 메서드를
